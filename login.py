@@ -1,7 +1,8 @@
+#Informações do usuário
 usuario_correto = 'Rodrigo'
 senha_correta = 'Rodrigo@10'
 
-
+#Input´s para o usuário 
 usuario_digitado = input('Usuário: ')
 senha_digitada = input('Senha: ')
 
